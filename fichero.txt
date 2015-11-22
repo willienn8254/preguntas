@@ -1,0 +1,29 @@
+Un tipo de archivo en el que todos los valores estan delimitados por comas.
+csv
+
+Lenguaje de marcado para la elaboracion de paginas web.
+html
+
+Es un lenguaje usado para definir y crear la presentacion de un documento estructurado escrito en HTML.
+css
+
+Un lenguaje de programacion dinamico y de codigo abierto enfocado en la simplicidad y productividad.
+ruby
+
+Es un formato de serializacion de datos legible por humanos inspirado en lenguajes como XML, C, Python, Perl, asi como el formato para correos electronicos.
+yaml
+
+Es un framework de aplicaciones web de codigo abierto escrito en el lenguaje de programacion Ruby, siguiendo el paradigma de la arquitectura Modelo Vista Controlador (MVC).
+rails
+
+Sistema de control de versiones distribuido, diseñado y desarrollado inicialmente por Linus Torvalds.
+git
+
+Es la interfaz que un software utiliza para interactuar con otro software.
+api
+
+Es una representacion de un documento HTML que nos permite interactuar con los elementos (etiquetas) del documento HTML.
+dom
+
+Es un formato ligero para el intercambio de datos.
+json
